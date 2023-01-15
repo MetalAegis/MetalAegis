@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MetalAegis
-- 👀 I’m interested in gayms
-- 🌱 I’m currently learning C++
-- 💞️ I’m currently not looking to collaborate
-- 📫 Don't reach out to me pls
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C
+- 💞️ I’m currently maybe looking to collaborate
+- 📫 Reac out to me if you really feel like it
 
 <!---
 MetalAegis/MetalAegis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
