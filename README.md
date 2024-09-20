@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 💞️ I’m currently maybe looking to collaborate
-- 📫 Reac out to me if you really feel like it
+- 📫 Reach out to me if you really feel like it
 
 <!---
 MetalAegis/MetalAegis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
